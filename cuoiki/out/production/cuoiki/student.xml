@@ -1,0 +1,8 @@
+<Students>
+    <Student>
+        <id>1</id>
+        <name>John</name>
+        <address>123 Main St</address>
+        <dateOfBirth>2000-01-01</dateOfBirth>
+    </Student>
+</Students>

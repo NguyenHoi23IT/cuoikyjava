@@ -1,0 +1,7 @@
+tạo 1 chương trình console với 3 Thread
+-Thread 1 chạy sẽ đọc file student.xml chứa thông tin của các học sinh trong lớp (Student(id,name,address,dateO(birth)).
+-Thread 2 chạy khi nhận được thẻ dateOfbirth của 1 student và bắt đầu tính tuổi của student đó (bao nhiêu năm,tháng, ngày) rồi tiến hành mã hóa chữ số đó
+-Thread 3 chạy để kiểm tra tổng các chữ số trong ngày tháng năm sinh đó có phải là 1 số nguyên tô không
+-Cuối cùng nhận các dữ liệu từ 3 Thread và tạo 1 file kq.xml để xuất ra (Student(age,sum,isDigit))
+-Tạo hàm để đọc kết quả xuất ra được (có giải mã đoạn đã mã hóa)
+-Lưu ý triển khai đối tượng trong ngoặc thành các thẻ xml phù hợp.
